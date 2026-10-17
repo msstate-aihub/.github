@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Mississippi State University · AI Hub
 
 This organization holds the code for the **MSU AI Hub** ([aihub.msstate.edu](https://aihub.msstate.edu)) and related AI tools built for Mississippi State University faculty, staff, and students.
@@ -23,4 +21,3 @@ For questions about these projects, access requests, or security concerns, conta
 - Some repositories are private and limited to project team members.
 
 
--->

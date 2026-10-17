@@ -9,8 +9,10 @@ It is maintained by the Office of the Senior Advisor for AI & Data Governance, O
 
 **Julie Jordan**
 Senior Advisor for AI & Data Governance
+
 Mississippi State University
-jbj48@msstate.edu
+
+julie.jordan@msstate.edu
 
 For questions about these projects, access requests, or security concerns, contact Julie directly. Please do not open public issues for security matters.
 
